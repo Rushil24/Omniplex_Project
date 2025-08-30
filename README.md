@@ -1,5 +1,4 @@
-# Omniplex_Project
-# Omniplex Project (Enhanced with Claude.ai Style)
+#  Omniplex Project (Enhanced with Claude.ai Style)
 
 ## 📜 Project Overview
 This project is a modified version of the **Omniplex Project** inspired by **Claude.ai's UI design**. The goal was to:
